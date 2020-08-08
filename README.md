@@ -11,13 +11,13 @@ I am Microsoft Learn student Ambassador, IBM Zambassador, and Amazon AWS student
 5. Web development
 
 - 💬 Ask me about 
-Voice User Interface
 1. AWS
 2. Azure
 3. Machine Learning
-4. Community
-5. Marketing
-6. LinkedIn
+4. Voice User Interface (Alexa + Google Assistant)
+5. Community
+6. Marketing
+7. LinkedIn
 
 - 📫 How to reach me: ...
 
