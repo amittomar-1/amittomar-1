@@ -1,14 +1,13 @@
 ### Hi there 👋
 
 My name is Amit Tomar :)
-I am Microsoft Learn student Ambassador, IBM Zambassador, and Amazon AWS student ambassador. I am also a community representative of Google Crowdsource. 
+I am a Developer Student Club Lead, Microsoft Learn student Ambassador, IBM Zambassador, and Amazon AWS student ambassador. I am also an official AWS Community Builder. I love to work in the field of Cloud, Voice, Web and Community.
 
 - 🔭 I’m currently working on - 
 1. AWS
 2. Azure
-3. Amazon Alexa and Google Assistance
-4. Machine Learning
-5. Web development
+3. Machine Learning
+4. Web development
 
 - 💬 Ask me about 
 1. AWS
@@ -24,6 +23,8 @@ I am Microsoft Learn student Ambassador, IBM Zambassador, and Amazon AWS student
 --> LinkedIn: https://www.linkedin.com/in/amittomar-1/
 
 --> Website: https://amittomar.tech
+
+--> Instagram: https://instagram.com/its_amit_tomar
 
 <!--
 **amittomar-1/amittomar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
